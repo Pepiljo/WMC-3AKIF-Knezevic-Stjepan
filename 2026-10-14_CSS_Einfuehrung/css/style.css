@@ -4,6 +4,16 @@
     padding: 0;
     background-color: lightblue;
 }
+#H1 {
+    color: rgb(109, 121, 29);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 58px;
+    font-weight: bold;
+    font-style: oblique 10deg;
+    font-variant: small-caps;
+    font-kerning: auto;
+}
 #P1 {
     color: darkblue;
     font-size: 24px;
@@ -18,5 +28,10 @@
 #P3 {
     color: darkred;
     font-size: 16px;
+    margin: 10px 0;
+}
+.test {
+    color: purple;
+    font-size: 20px;
     margin: 10px 0;
 }
