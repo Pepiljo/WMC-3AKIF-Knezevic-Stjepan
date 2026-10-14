@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+#P1 {
+    color: darkblue;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+#P2 {
+    color: darkgreen;
+    font-size: 18px;
+    margin: 10px 0;
+}
+#P3 {
+    color: darkred;
+    font-size: 16px;
+    margin: 10px 0;
+}
