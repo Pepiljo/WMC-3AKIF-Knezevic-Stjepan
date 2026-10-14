@@ -1,0 +1,62 @@
+*{
+    opacity: 0;
+}
+*:hover{
+    opacity: 1;
+}
+
+.header{
+    background-color: aquamarine;
+    align-items: center;
+    text-align: center;
+    text-color:
+
+}
+
+.blink_me {
+    color: pink;
+    animation: blinker 250ms linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+  to {
+    color: red
+  }
+}
+
+.inhalt{
+    background-color: lightcyan;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 150px;
+}
+.inhalt:hover{
+    background-color: rgb(185, 212, 49);
+}
+.nav{    
+    width: 150px;
+    float: left;
+    height: 90vh;
+    background-color: rgb(159, 100, 225);
+}
+.link{
+    color: rgb(8, 0, 248);
+    text-decoration: none;
+}
+.link:hover{
+    color: rgb(74, 246, 0);
+    text-decoration: underline;
+}
+.link:visited{
+    color: rgb(255, 225, 0);
+}
+
+.footer{
+    background-color: darkturquoise;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}

@@ -35,3 +35,15 @@
     font-size: 20px;
     margin: 10px 0;
 }
+.link {
+    color: rgb(8, 0, 251);
+    font-size: 18px;
+    text-decoration: none;
+    margin: 10px 0;
+}
+.link:hover {
+    text-decoration: underline;
+}
+.link:visited {
+    color: rgb(128, 0, 128);
+}
